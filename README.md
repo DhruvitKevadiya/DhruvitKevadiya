@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Dhruvit Kevadiya
 
-A professional Full Stack Developer and React Native App Developer passionate about creating innovative and engaging applications.
+A professional Full Stack Developer passionate about creating innovative and engaging applications.
 
 ## 📌 About Me
 I specialize in building high-performance web and mobile applications using modern technologies. With 3+ years of experience, I have worked extensively with React.js, React Native, Node.js, and Next.js, delivering scalable solutions. My expertise spans across front-end and back-end development, ensuring seamless user experiences.
